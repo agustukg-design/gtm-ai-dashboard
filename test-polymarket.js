@@ -1,4 +1,3 @@
-cat << 'EOF' > test-polymarket.js
 const fetchMarketData = async () => {
     const url = 'https://polymarket.com';
     try {
@@ -21,5 +20,3 @@ const fetchMarketData = async () => {
     }
 };
 fetchMarketData();
-EOF
-
