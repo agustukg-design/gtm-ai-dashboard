@@ -22,3 +22,4 @@ const fetchMarketData = async () => {
 };
 fetchMarketData();
 EOF
+
